@@ -14,6 +14,12 @@ ol {
   margin: 0;
   padding-left: 0;
 }
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 :root {
   --white: #ffffff;
   --body: #434455;
@@ -179,7 +185,6 @@ ol {
 }
 .list-studio {
   color: var(--studio);
-  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
