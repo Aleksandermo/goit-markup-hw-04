@@ -123,7 +123,8 @@ ol {
   justify-content: center;
 }
 .social-icons-filter:hover,
-.social-icons-filter:focus {
+.social-icons-filter:focus,
+.social-icons-filter:visited {
   background-color: var(--ocean);
 }
 .icon-fourth-section-index {
