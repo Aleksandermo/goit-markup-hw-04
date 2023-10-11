@@ -124,8 +124,7 @@ ol {
   justify-content: center;
 }
 .social-icons-filter:hover,
-.social-icons-filter:focus,
-.social-icons-filter:visited {
+.social-icons-filter:focus {
   background-color: var(--ocean);
 }
 .icon-fourth-section-index {
@@ -219,7 +218,7 @@ ol {
   align-items: baseline;
 }
 .next-class {
-  gap: 120px;
+  margin-right: 120px;
 }
 .social-filter {
   font-weight: 500;
@@ -234,6 +233,7 @@ ol {
   gap: 16px;
 }
 .footer-icons-list {
+  width: 40px;
   height: 40px;
 }
 .footer-link-list {
