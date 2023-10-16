@@ -123,12 +123,13 @@ ol {
   align-items: center;
   justify-content: center;
 }
-.social-icons-filter:hover {
+
+.social-icons-filter:hover,
+.social-icons-filter:focus,
+.social-icons-filter:visited {
   background-color: var(--ocean);
 }
-.social-icons-filter:focus {
-  background-color: var(--ocean);
-}
+
 .icon-fourth-section-index {
   fill: var(--cloud);
 }
@@ -163,7 +164,8 @@ ol {
   color: #8e8f99;
 }
 .customers-link:hover,
-.customers-link:focus {
+.customers-link:focus,
+.customers-link:visited {
   color: var(--ocean);
   border-color: var(--ocean);
   cursor: pointer;
