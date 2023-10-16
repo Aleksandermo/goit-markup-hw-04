@@ -139,7 +139,7 @@ ol {
 }
 .customers-name {
   font-size: 36px;
-  line-height: 1.11px;
+  line-height: 1.11;
   color: var(--studio);
   margin-bottom: 72px;
   text-align: center;
