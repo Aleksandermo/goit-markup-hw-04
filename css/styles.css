@@ -125,8 +125,7 @@ ol {
 }
 
 .social-icons-filter:hover,
-.social-icons-filter:focus,
-.social-icons-filter:visited {
+.social-icons-filter:focus {
   background-color: var(--ocean);
 }
 
@@ -164,8 +163,7 @@ ol {
   color: #8e8f99;
 }
 .customers-link:hover,
-.customers-link:focus,
-.customers-link:visited {
+.customers-link:focus {
   color: var(--ocean);
   border-color: var(--ocean);
   cursor: pointer;
